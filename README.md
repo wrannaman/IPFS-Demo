@@ -6,8 +6,9 @@ Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
 ## To Run
 npm i && npm run dev
 
-## starting ipfs
-ipfs daemon
+## Starting IPFS
+In a separate terminal: 
+`$ ipfs daemon`
 
 
 ## Gotchas
