@@ -1,6 +1,6 @@
 {
-  "name": "Blockchain TODO",
-  "short_name": "TODO",
+  "name": "IPFS Demo",
+  "short_name": "IPFS",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#9c27b0",
