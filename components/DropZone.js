@@ -4,7 +4,6 @@ import PropTypes from 'prop-types'
 import { withStyles } from 'material-ui/styles';
 import { observer, inject } from 'mobx-react'
 import { toJS } from 'mobx';
-import toBuffer from 'blob-to-buffer'
 import { initStore } from '../stores'
 
 import Typography from 'material-ui/Typography';
