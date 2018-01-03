@@ -5,6 +5,7 @@ Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
 
 ## Installation
 [Install IPFS](https://ipfs.io/docs/install/)
+
 `$ npm i`
 
 ## To Run
