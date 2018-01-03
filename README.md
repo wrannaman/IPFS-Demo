@@ -1,6 +1,6 @@
 # IPFS Demo
 Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
-[![Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Demo](https://github.com/wrannaman/IPFS-Demo/blob/master/demo.gif)]
 
 ## To Run
 npm i && npm run dev
