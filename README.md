@@ -1,16 +1,9 @@
 # IPFS Demo
 Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
-[![Demo](https://github.com/wrannaman/IPFS-Demo/blob/master/demo.gif)]
+![Demo](https://github.com/wrannaman/IPFS-Demo/blob/master/demo.gif)
 
 ## To Run
 npm i && npm run dev
-
-* Need to have MetaMask installed
-
-I was using Ganache as a local blockchain. You can configure MetaMask to connect to Ganache.
-
-## starting rinkeby
- geth --rinkeby --rpc --rpcapi db,eth,net,web3,personal --unlock="0xYourAccount"
 
 ## starting ipfs
 ipfs daemon
