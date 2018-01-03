@@ -13,8 +13,13 @@ Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
 
 ## Starting IPFS
 In a separate terminal:
+
 `$ ipfs daemon`
 
+## IPFS web UI
+View the IPFS web ui:
+
+`http://localhost:5001/webui`
 
 ## Gotchas
  - If your ipfs webui is getting 403, [try this](https://github.com/ipfs-shipyard/ipfs-webui/issues/596#issuecomment-314395014)
