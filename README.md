@@ -19,7 +19,7 @@ In a separate terminal:
 ## IPFS web UI
 View the IPFS web ui:
 
-`http://localhost:5001/webui`
+[http://localhost:5001/webui](http://localhost:5001/webui)
 
 ## Gotchas
  - If your ipfs webui is getting 403, [try this](https://github.com/ipfs-shipyard/ipfs-webui/issues/596#issuecomment-314395014)
