@@ -3,8 +3,12 @@ Upload images or videos to IPFS. Play or view them, and delete them (sort of...)
 
 ![Demo](https://github.com/wrannaman/IPFS-Demo/blob/master/demo.gif)
 
+## Installation
+[Install IPFS](https://ipfs.io/docs/install/)
+`$ npm i`
+
 ## To Run
-npm i && npm run dev
+ npm run dev
 
 ## Starting IPFS
 In a separate terminal:
